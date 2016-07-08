@@ -1,0 +1,2 @@
+# Register
+好看手机注册EditText控件以及短信验证和语音验证
